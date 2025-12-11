@@ -1,4 +1,4 @@
-Week 1
+Week One
 
 
-[Introduction Pervious](Intro.md) | [Home](index.md) | [Week 2](Week_2.md)
+[Introduction Pervious](Intro.md) | [Home](index.md) | [Week Two](Week_2.md)
