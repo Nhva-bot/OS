@@ -19,6 +19,7 @@ The chosen Linux workstations environments were run in a VirtualBox virtual mach
 
 Ubuntu Desktop:
 This was chosen because it is widely supported and is widely used. It is one of the most commonly used Linux systems for cloud computing and primary workstation. It is also compatibility with the server OS. Great use for running benchmarks and monitoring tools. Supports a full desktop environment and strong CLI support. I have chosen to go with this as it will let me see the stability compared to its counterpart Fedora. 
+
 Key Trade-off:
 * Stable
 * Easier
@@ -26,6 +27,7 @@ Key Trade-off:
 
 Fedora Workstation:
 Fedora Workstation is cutting edge as it uses SELinux and enables this mode by default. It gives strong mandatory access control (MAC) and advanced security features which security has a distinct framework compared to Ubuntu. This will allow me to see the security.
+
 Key Trade-off:
 * Complex
 * Secure
