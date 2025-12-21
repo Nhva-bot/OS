@@ -8,7 +8,9 @@ Objectives:
 
 The following below shows the two system architectures chosen as well as the server connected to the VM (Virtual Machine). One is Ubuntu Desktop and the other Fedora. The chosen server is Oracle Cloud Infrastructure ubuntu server.
 
-(picture will add later)
+<img width="870" height="1047" alt="Screenshot 2025-12-21 154015" src="https://github.com/user-attachments/assets/671ab8c6-7d4a-4b01-82f4-809c6cff534d" />
+
+
 
 
 Oracle Cloud Infrastructure (OCI):
