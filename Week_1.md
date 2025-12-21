@@ -1,4 +1,4 @@
-Week One [System Planning and Distribution Selection]
+Week One [System Planning and Distribution Selection]  Needs review
 
 Objectives:
 * Creating a system architecture diagram showing both system and network connections
@@ -26,7 +26,8 @@ Key Trade-off:
 
 The following below shows the two system architectures chosen connected to the VM (Virtual Machine). One is Ubuntu Desktop and the other Ubuntu Server.
 
-<img width="870" height="1047" alt="Screenshot 2025-12-21 154015" src="https://github.com/user-attachments/assets/671ab8c6-7d4a-4b01-82f4-809c6cff534d" />
+<img width="754" height="917" alt="Screenshot 2025-12-21 161450" src="https://github.com/user-attachments/assets/53ee1cd5-5089-4911-a2c0-03aca402f908" />
+
 
 The following pictures show CLI as well as connection to the server. It also shows that we ping the server from the workstation. Futhermore we log into the server from the workstation.
 
