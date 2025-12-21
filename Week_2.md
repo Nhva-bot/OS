@@ -28,8 +28,11 @@ Security Configuration will focus on verfying and security conttrols. This would
 
 Identified Threats
 
-Unauthorized Access - Unauthorised SSH login attempts : Harden SSH, disable root login, enforce secure                                                             authentication, restricting access with firewall rules.
+Unauthorized Access - Unauthorised SSH login attempts : Harden SSH, disable root login, enforce secure authentication, restricting access with firewall rules.
 
+Privileges Misuse - Gaining elevated permissions : Apply least-privilege principles. Restrict sudo access and review user permissions.
+
+Network Attacks - Attacks through misconfigured network : Enforce host-only networking. Firewall to block unused ports. Disable unnecessary serves.
 
 
 [Week One](Week_1.md) | [Home](index.md) | [Week Three](Week_3.md)
