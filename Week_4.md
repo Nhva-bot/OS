@@ -50,5 +50,17 @@ By using UFW we are able to configure a host based firewall to restrict incoming
 
 <img width="1274" height="891" alt="Screenshot 2025-12-21 213040" src="https://github.com/user-attachments/assets/d40ac8ff-8f13-4667-b085-cd3ea1c2335b" />
 
+User Management and Privilege Control
+
+Next we create a non-root user. This allows administrative tasks to be performed without enabling direct root access. This way by ensuring not everyone has root access privileges in line with least privileges. We can confirm that the user can login in on the same workstation with thier own account.
+
+<img width="1279" height="894" alt="Screenshot 2025-12-21 221219" src="https://github.com/user-attachments/assets/d904538a-ed4c-4d62-974b-743ff616a907" />
+
+<img width="1276" height="899" alt="Screenshot 2025-12-21 221700" src="https://github.com/user-attachments/assets/98251cb9-1ef8-49d7-94b3-7f7957d9d1ec" />
+
+<img width="1275" height="894" alt="Screenshot 2025-12-21 223214" src="https://github.com/user-attachments/assets/277903d1-4206-44ac-a221-be9cb0280180" />
+
+<img width="1275" height="894" alt="Screenshot 2025-12-21 223439" src="https://github.com/user-attachments/assets/e6bfadc6-b03d-4559-ba90-984a459c10fe" />
+
 
 [Week Three](Week_3.md) | [Home](index.md) | [Week Five](Week_5.md)
