@@ -52,8 +52,20 @@ The following shows the exact commands for SSH baased installation from the work
 
 The resource usage is based on the primary function of each selected application. Each application was chosen to represent a specific workload type. As a result, the expected CPU, memory, disk I/O, and network usage can be identified based on which resource is most heavily utilised by the application being tested. 
 
-Application        CPU Usage        Memory Usage        I/O        Network Usage
-stress-ng            High             Moderate          Low              Low
-memtester            Low                High
+<img width="1274" height="520" alt="Screenshot 2025-12-21 191156" src="https://github.com/user-attachments/assets/a75a31db-7712-4918-a213-bd63bbfde1c5" />
+
+Monitoring Strategy
+
+CPU was intensive as we stress-ng was running. The command top is used to monitor real-time CPU usage and identify stree-ng process while running uptime to observe load averages. This gives us an over view of the load affected over the system behaviour.
+
+As memtester ran we looked at the memory usage. free -h command was used to track memory consumption and the available memory. By using vmstat and free-h we are snabled to identify memory pressure and system reponsiveness during the test.
+
+Both iostat and vmstat were used for disk performance as fio was running to evaluate read and write activity. iostat is used to measure disk throughput wait times and vmstat provided addtional context on system performancce.
+
+iperf3 was used to generate traffic between Ubuntu workstation and the server. This gives use network performance through the use of iperf3 output. While ss command is used to monitor active network connections on the server.
+
+Apach2 performance was monitored by looking at the system resources usage and service by using the top command and ss. top for the CPU usage and memory. ss was used for active network connections. journalctl -u apache2 is used for the review of service logs for errors or abnormal behaviour.
+
+
 
 [Week Two](Week_2.md) | [Home](index.md) | [Week Four](Week_4.md)
