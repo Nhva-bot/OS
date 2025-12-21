@@ -58,7 +58,11 @@ Next we create a non-root user. This allows administrative tasks to be performed
 
 <img width="1276" height="899" alt="Screenshot 2025-12-21 221700" src="https://github.com/user-attachments/assets/98251cb9-1ef8-49d7-94b3-7f7957d9d1ec" />
 
-<img width="1275" height="894" alt="Screenshot 2025-12-21 223214" src="https://github.com/user-attachments/assets/277903d1-4206-44ac-a221-be9cb0280180" />
+The following shows SSH access evidence for the new user. Keep in the mind the user already has the key added so they do not need to enter a password.
+
+<img width="1276" height="896" alt="Screenshot 2025-12-21 224800" src="https://github.com/user-attachments/assets/d4e00bda-1bec-4419-a2fd-bac1d8ac588c" />
+
+<img width="1281" height="893" alt="Screenshot 2025-12-21 224427" src="https://github.com/user-attachments/assets/37b4480c-10c6-4f49-8e48-b1b00a1e1f54" />
 
 <img width="1275" height="894" alt="Screenshot 2025-12-21 223439" src="https://github.com/user-attachments/assets/e6bfadc6-b03d-4559-ba90-984a459c10fe" />
 
