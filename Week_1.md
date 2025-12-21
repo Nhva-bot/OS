@@ -7,7 +7,7 @@ Objectives:
 * Use the command-line interface (CLI) specific to the chosen system
 
 Workstations Configuration:
-The chosen Linux workstations environments were run in a VirtualBox virtual machine. The chosen selection of Ubuntu Desktop and Fedora Workstation were chosen to provide clear comparison between the two different systems.
+The chosen Linux workstations environments were run in a VirtualBox virtual machine. The two systems we chose to look at was Ubuntu Desktop and Fedora Workstation were chosen to provide clear comparison between the two different systems.
 
 Ubuntu Desktop:
 This was chosen because it is widely supported and is widely used. It is one of the most commonly used Linux systems for cloud computing and primary workstation. It is also compatibility with the server. Great use for running benchmarks and monitoring tools. Supports a full desktop environment and strong CLI support. I have chosen to go with this as it will let me see the stability compared to its counterpart Fedora. 
