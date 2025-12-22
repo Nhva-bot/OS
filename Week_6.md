@@ -65,4 +65,19 @@ Now we look at the network. From the first picture we can see that the server is
 
 <img width="1020" height="379" alt="Screenshot 2025-12-22 123832" src="https://github.com/user-attachments/assets/ce9ad586-40b1-49d6-a530-c009fed2fee2" />
 
+Bottleneck Identification
+
+From the tests carried out we can see where the bottlenecks come into during stress testing as expected. This was very clear on the CPU. Memory capacity was enough and did not limit performance.
+
+Optimisation
+
+The two optimisation done was SSH hardening and was Firewall configuration. By restricting SSH access to a single workstation and enforcing key based authentication we make sure unnecessary network exposure and reduce impact performance
+
+* sudo nano /etc/ssh/sshd_config
+* sudo ufw default deny incoming
+* sudo ufw default allow outgoing
+* sudo ufw enable
+
+
+
 [Week Five](Week_5.md) | [Home](index.md) | [Week Seven](Week_7.md)
