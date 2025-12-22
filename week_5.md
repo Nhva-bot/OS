@@ -54,7 +54,7 @@ The following shows the script created for remote server moitoring
 
 
 
-[Week Four](Week_4.md) | [Home](index.md) | [Week Six](Week_6.md)
+[Week Four](week_4.md) | [Home](index.md) | [Week Six](week_6.md)
 
 
 
