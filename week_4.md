@@ -68,4 +68,4 @@ The following shows SSH access evidence for the new user. Keep in the mind the u
 
 
 
-[Week Three](Week_3.md) | [Home](index.md) | [Week Five](Week_5.md)
+[Week Three](week_3.md) | [Home](index.md) | [Week Five](week_5.md)
