@@ -20,7 +20,7 @@ The first test we run will look at the CPU performance testing. This will be don
 <img width="1274" height="897" alt="Screenshot 2025-12-22 102311" src="https://github.com/user-attachments/assets/433f8d35-8a71-4e70-ad94-934e9a1afe79" />
 
 
-<img width="1200" height="410" alt="Screenshot 2025-12-22 102853" src="https://github.com/user-attachments/assets/00190f33-1fca-4f02-88b3-f59933f5dd6e" />
+<img width="1010" height="352" alt="Screenshot 2025-12-22 123927" src="https://github.com/user-attachments/assets/12cca16e-a3a6-4354-a782-27facb032591" />
 
 
 <img width="697" height="474" alt="Screenshot 2025-12-22 104626" src="https://github.com/user-attachments/assets/f1a25bf4-f657-4ec6-8071-f195ece8073e" />
@@ -35,7 +35,9 @@ Next we look at the memory. We start by getting the base before loading. When we
 
 <img width="1269" height="897" alt="Screenshot 2025-12-22 105755" src="https://github.com/user-attachments/assets/039e6fe4-dfca-45bf-8fb1-6e30c0664bad" />
 
-<img width="976" height="366" alt="Screenshot 2025-12-22 110540" src="https://github.com/user-attachments/assets/74a0cc23-a96e-488d-936a-649f746d884f" />
+<img width="1059" height="345" alt="Screenshot 2025-12-22 123937" src="https://github.com/user-attachments/assets/80be4dc9-450a-4c31-9669-052e359220bc" />
+
+<img width="717" height="483" alt="Screenshot 2025-12-22 112634" src="https://github.com/user-attachments/assets/aadd608c-375a-4248-944a-29e8c6ac31cb" />
 
 Next we have the disk I/O running the fio application. Using fio to generate a mixed read and write workload test we can see active disk increase with sustained read and write.
 
@@ -47,8 +49,20 @@ Next we have the disk I/O running the fio application. Using fio to generate a m
 
 <img width="1275" height="899" alt="Screenshot 2025-12-22 111408" src="https://github.com/user-attachments/assets/8902a1bd-54ee-4d80-b94c-12f9d83dea64" />
 
-<img width="1067" height="307" alt="Screenshot 2025-12-22 111804" src="https://github.com/user-attachments/assets/89143046-86c7-496c-98d3-8603a901d6e4" />
+<img width="1153" height="356" alt="Screenshot 2025-12-22 123947" src="https://github.com/user-attachments/assets/68ec41a1-598e-4875-8746-06bf8d5fdbee" />
 
+<img width="795" height="500" alt="Screenshot 2025-12-22 112425" src="https://github.com/user-attachments/assets/72378a2a-6a44-43d0-b06a-e02a433af28b" />
 
+Now we look at the network. From the first picture we can see that the server is actively accepting network traffic and 5201 is in use. Next we can confirm that we can connect to the server and we show throughput measurement in the following picture. 
+
+<img width="1274" height="899" alt="Screenshot 2025-12-22 113950" src="https://github.com/user-attachments/assets/5df91fe3-b6c1-4938-95c8-8f809227db26" />
+
+<img width="1279" height="896" alt="Screenshot 2025-12-22 122531" src="https://github.com/user-attachments/assets/c9b3656a-2862-487b-a30e-db84c719c224" />
+
+<img width="1274" height="895" alt="Screenshot 2025-12-22 122752" src="https://github.com/user-attachments/assets/7a9b1b72-48b1-476a-9f46-299ed55f8ad8" />
+
+<img width="1271" height="902" alt="Screenshot 2025-12-22 123047" src="https://github.com/user-attachments/assets/971adb1c-5c44-42f1-a9c2-ffd6852cc0c6" />
+
+<img width="1020" height="379" alt="Screenshot 2025-12-22 123832" src="https://github.com/user-attachments/assets/ce9ad586-40b1-49d6-a530-c009fed2fee2" />
 
 [Week Five](Week_5.md) | [Home](index.md) | [Week Seven](Week_7.md)
