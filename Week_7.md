@@ -20,4 +20,20 @@ I carry out updates and updrages as this should help improve the system
 
 <img width="1268" height="900" alt="Screenshot 2025-12-22 131955" src="https://github.com/user-attachments/assets/b29b0d16-9e8f-4bbf-a94d-87e36b387f8c" />
 
+By carring out the changes I can help improve the system. As we can see the hardening had improve to 65
+
+<img width="1276" height="898" alt="Screenshot 2025-12-22 133428" src="https://github.com/user-attachments/assets/2027c1b5-b821-4832-9b8c-f8f1e36486fe" />
+
+As we move to nmap, we first try to connect to it by namap but this fails and says the host is down due to the filtering by the firewall. However when we -Pn option we can confirm that the server was reachable and that only authorised services were exposed. This ensure the firewall configuration is working.
+
+<img width="1278" height="895" alt="Screenshot 2025-12-22 133904" src="https://github.com/user-attachments/assets/1256169d-ffeb-4be1-8afc-dda777cf0d56" />
+
+We also confirm access control has only been given correctly: getent group sudo
+
+<img width="1276" height="898" alt="Screenshot 2025-12-22 134422" src="https://github.com/user-attachments/assets/29696823-c51c-40f2-a71f-f8b4150d8f8b" />
+
+We can also confirm the nessarcy services are running on the: ssh, ufw, fail2ban, unattended-upgrades and systemd-journald. The services running are all needed for remote administration, logging, firewall, intrusion prevention and auto updates. They are reuired for secure serve access, system loggin, network security, protecting SSH and for path management.
+
+<img width="1276" height="899" alt="Screenshot 2025-12-22 134746" src="https://github.com/user-attachments/assets/452b20ce-3461-4b53-8010-b61784483688" />
+
 [Week Three](Week_6.md) | [Home](index.md)
