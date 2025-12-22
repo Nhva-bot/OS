@@ -23,4 +23,8 @@ The first test we run will look at the CPU performance testing. This will be don
 <img width="1200" height="410" alt="Screenshot 2025-12-22 102853" src="https://github.com/user-attachments/assets/00190f33-1fca-4f02-88b3-f59933f5dd6e" />
 
 
+<img width="697" height="474" alt="Screenshot 2025-12-22 104626" src="https://github.com/user-attachments/assets/f1a25bf4-f657-4ec6-8071-f195ece8073e" />
+
+Next we look at the memory
+
 [Week Five](Week_5.md) | [Home](index.md) | [Week Seven](Week_7.md)
