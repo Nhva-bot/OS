@@ -68,4 +68,4 @@ Apach2 performance was monitored by looking at the system resources usage and se
 
 
 
-[Week Two](Week_2.md) | [Home](index.md) | [Week Four](Week_4.md)
+[Week Two](week_2.md) | [Home](index.md) | [Week Four](week_4.md)
