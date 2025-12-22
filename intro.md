@@ -7,4 +7,4 @@ Welcome to OS (Operating Systems Journal). This journal documents the work carri
 * Critical reflection
   
 
-[Home](index.md) | [Week One Next](Week_1.md)
+[Home](index.md) | [Week One Next](week_1.md)
