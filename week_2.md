@@ -35,4 +35,4 @@ Privileges Misuse - Gaining elevated permissions : Apply least-privilege princip
 Network Attacks - Attacks through misconfigured network : Enforce host-only networking. Firewall to block unused ports. Disable unnecessary serves.
 
 
-[Week One](Week_1.md) | [Home](index.md) | [Week Three](Week_3.md)
+[Week One](week_1.md) | [Home](index.md) | [Week Three](week_3.md)
