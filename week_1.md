@@ -55,4 +55,4 @@ The following pictures show CLI as well as connection to the server. It also sho
 (8)
 <img width="1272" height="891" alt="Screenshot 2025-12-21 155548" src="https://github.com/user-attachments/assets/7a629b45-c892-45e1-8649-4aab90273d90" />
 
-[Introduction Pervious](Intro.md) | [Home](index.md) | [Week Two](Week_2.md)
+[Introduction Pervious](intro.md) | [Home](index.md) | [Week Two](week_2.md)
