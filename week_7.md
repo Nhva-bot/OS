@@ -36,4 +36,4 @@ We can also confirm the nessarcy services are running on the: ssh, ufw, fail2ban
 
 <img width="1276" height="899" alt="Screenshot 2025-12-22 134746" src="https://github.com/user-attachments/assets/452b20ce-3461-4b53-8010-b61784483688" />
 
-[Week Three](Week_6.md) | [Home](index.md)
+[Week Three](week_6.md) | [Home](index.md)
